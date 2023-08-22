@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ef2c903ac0bf042b682ec1a626c8c3, type: 3}
+  m_Name: Yellow Heart
+  m_EditorClassIdentifier: 
+  lootSprite: {fileID: 21300000, guid: a02973a6ac8f246479774a22331e92c6, type: 3}
+  lootName: Yellow Heart
+  dropChance: 95
